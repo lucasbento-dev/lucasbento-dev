@@ -65,9 +65,6 @@ Tecnologias utilizadas diretamente na preparação e nos projetos WorldSkills:
 [atual]   Ensino Médio Técnico em Desenvolvimento de Sistemas
           SESI SENAI Petrópolis · conclusão 2026
 
-[próximo] Programa de Residência em TIC (770h)
-          Serratec Hub de Tecnologia · Petrópolis, RJ
-
 [futuro]  Ensino Superior em Engenharia de Software
 
 [meta]    WorldSkills Internacional · Aichi, Japão · Novembro de 2028
@@ -87,7 +84,7 @@ Tecnologias utilizadas diretamente na preparação e nos projetos WorldSkills:
 
 <br/>
 
-![Contribution Snake](https://raw.githubusercontent.com/LucasSBento/LucasSBento/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/lucasbento-dev/lucasbento-dev/output/github-contribution-grid-snake.svg)
 
 <sub>SESI SENAI Petrópolis &nbsp;·&nbsp; WorldSkills 2028 &nbsp;·&nbsp; Petrópolis, RJ</sub>
 
